@@ -94,14 +94,3 @@
 </details>
 
 
-<details markdown="1">
-<summary>day7</summary>
-<ul>
-    <li>이번주 목표</><br>
-    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/HappyBackDev/wiki/week-7-%EA%B0%92-%ED%83%80%EC%9E%85">자세히</a>)
-      <blockquote>
-        1. 값 타입 </a><br>
-      </blockquote>
-    </li>
-</ul>
-</details>
